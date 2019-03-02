@@ -11,6 +11,16 @@
         <div class="col-12">
             <h1>Hola mundo</h1>
         </div>
-    </div> 
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <h1>Hola mundo2</h1>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <h1>Hola mundo3</h1>
+        </div>
+    </div>  
 </body>
 </html>
