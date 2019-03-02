@@ -18,8 +18,11 @@
         </div>
     </div>
     <div class="row">
-        <div class="col-12">
-            <h1>Hola mundo3</h1>
+        <div class="col-4">
+            <h1>Gordo chipi</h1>
+        </div>
+        <div class="col-8">
+            <h1>Renzo se la come</h1>
         </div>
     </div>  
 </body>
