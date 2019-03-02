@@ -24,6 +24,11 @@
         <div class="col-8">
             <h1>Renzo se la come</h1>
         </div>
-    </div>  
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <h1>Manrique triste</h1>
+        </div>
+    </div> 
 </body>
 </html>
